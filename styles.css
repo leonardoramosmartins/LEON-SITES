@@ -52,6 +52,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 50px;
 
 }
 
@@ -63,6 +64,7 @@
 
 .menu ul li {
     font-size: var(--font-step--1);
+
 
 }
 
@@ -207,6 +209,7 @@
     /* Adiciona um espaço entre a imagem e o texto */
     height: 100%;
     width: 20%;
+    
 }
 
 .txt p {
